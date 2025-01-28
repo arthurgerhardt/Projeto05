@@ -21,7 +21,6 @@
     display: block;
     padding-block: 1.5rem;
     font: var(--font-weight-bold) var(--fs-price)/1.2 var(--font-family);
-    color: red;
   }
 
   @media (width >=80em) {

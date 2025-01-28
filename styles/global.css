@@ -21,7 +21,7 @@
     --brand-color-primary: #F7B733;
     --brand-color-secondary: #FC4A1A;
 
-    --font-family: 'Inter', system-ui sans-serif;
+    --font-family: 'Inter', system-ui, sans-serif;
     --font-weight-base: 400;
     --font-weight-medium: 500;
     --font-weight-bold: 800;
